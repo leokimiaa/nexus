@@ -416,7 +416,7 @@ MIT
 
 ## 👤 Author
 
-Your Name - [Your Portfolio/GitHub]
+Your Name - Albert Leonardi
 
 ## 🙏 Acknowledgments
 
